@@ -1,4 +1,3 @@
-Version 1.0.1
-=============
+Updates:
 
-Added Auto Updater functionality.
+Fix general problems with the sync of threads and main app.
